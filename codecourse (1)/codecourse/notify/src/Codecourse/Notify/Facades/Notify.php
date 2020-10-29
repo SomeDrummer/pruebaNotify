@@ -16,3 +16,4 @@ class Notify extends Facade
         return 'notify';
     }
 }
+ 
